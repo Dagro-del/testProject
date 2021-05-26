@@ -5,5 +5,4 @@ int main()
 	printf("Hallo World 2\n")
 	printf("Test");
 	printf("Wir");
-	printf("machen");
 }
